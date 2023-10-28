@@ -1,0 +1,13 @@
+{
+  "description" : "Projeto para treinamento de Apache Superset da Udemy",
+  "company" : "WMFinamore",
+  "department" : "Data Analytics",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default",
+  "config" : {
+    "variables" : [ ]
+  }
+}

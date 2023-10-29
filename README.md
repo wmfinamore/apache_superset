@@ -12,4 +12,5 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 
 ![](/graficos/Tree_map_vendas.jpg)
 
-Série temporal e previsão
+* Série temporal e previsão
+![](/graficos/Serie_Temporal_e_Forecast.jpg)

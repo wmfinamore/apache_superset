@@ -18,3 +18,6 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 * Campo calculado
 ![](/graficos/Add_Campo_Calculado.jpg)
 
+* Gráfico do tipo KPI
+![](/graficos/KPI.jpg)
+

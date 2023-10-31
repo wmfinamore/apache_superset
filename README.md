@@ -30,3 +30,6 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 * Gráfico Box Plot
 ![](/graficos/box_plot.jpg)
 
+* Dashboard
+![](/graficos/dashboard.jpg)
+

@@ -36,3 +36,6 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 * Dashboard filtrado
 ![](/graficos/dashboard_filtrado.jpg)
 
+* Ferramenta SQL Lab
+![] (/graficos/SQL_lab.jpg)
+

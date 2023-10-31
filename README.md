@@ -27,3 +27,6 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 * Graph Chart - Gráfico de Rede
 ![](/graficos/graph_chart_rede.jpg)
 
+* Gráfico Box Plot
+![](/graficos/box_plot.jpg)
+

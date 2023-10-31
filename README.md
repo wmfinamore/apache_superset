@@ -33,3 +33,6 @@ Exemplos e ETL para o curso de Apache Superset da Udemy
 * Dashboard
 ![](/graficos/dashboard.jpg)
 
+* Dashboard filtrado
+![](/graficos/dashboard_filtrado.jpg)
+
